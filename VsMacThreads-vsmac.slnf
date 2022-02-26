@@ -1,0 +1,21 @@
+{
+  "solution": {
+    "path": "VsMacThreads.sln",
+    "projects": [
+		"VsMacThreads.Shared\\VsMacThreads.Shared.shproj",
+
+		"VsMacThreads.Droid\\VsMacThreads.Droid.csproj",
+
+		"VsMacThreads.iOS\\VsMacThreads.iOS.csproj",
+
+
+		"VsMacThreads.Wasm\\VsMacThreads.Wasm.csproj",
+
+		"VsMacThreads.macOS\\VsMacThreads.macOS.csproj",
+
+		"VsMacThreads.Skia.Gtk\\VsMacThreads.Skia.Gtk.csproj",
+
+		"VsMacThreads.Skia.Linux.FrameBuffer\\VsMacThreads.Skia.Linux.FrameBuffer.csproj",
+    ]
+  }
+}
